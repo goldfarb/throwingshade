@@ -1,2 +1,2 @@
 # throwing shade
-## _A typeface based on time and place_
+### _A typeface based on time and place_
