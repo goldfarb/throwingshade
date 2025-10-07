@@ -1,0 +1,33 @@
+# Setup
+title:               throwing shade
+tagline:             'A typeface based on time & place'
+description:         ''
+url:                 https://throwsha.de
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              alice f goldfarb
+  url:               https://alicegoldfarb.com/
+  email:             alice.goldfarb@colorado.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+
+
+
+lsi: false
+safe: true
+source: https://github.com/goldfarb/throwingshade
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
